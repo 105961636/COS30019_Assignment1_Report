@@ -16,3 +16,11 @@ References
 Appendix
 
 3.Glossary
+
+
+
+
+Research Overview
+Topic selected:Topic 6-the effectiveness of ai ehtics guidelines and principle in practice
+this report will critically evaluate the implementation gap between high level ethical frameworks
+case study: the report will utiliize algorithmic bias in automated recruitment as clear evidence to demonstrate how mathematically abstract principles like fairness fail to be enforced without hard regulation, aligniing with hagendorff's critiique of ehtics washing
