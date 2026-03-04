@@ -9,3 +9,6 @@ the google,Meta and some others compaines to release some Ai ethic guidelines to
 
 3. about goodd ethic guidelines difficult to come true in engineering implementation
 high-level philosophical principles are mathematically abstract and difficult for developers to encode into a quantifiable performance measrue.
+
+
+After reviewing Australia's AI Ethics Principles, I have identified three core principles that suffer heavily from the Implementation Gap: Fairness, Transparency and Explainability, and Accountability. The mathematical contradictions in defining Fairness, the 'Black Box' nature of Deep Learning models, and the distributed liability in complex Intelligent Agents make these principles incredibly difficult to enforce in reality. This aligns perfectly with Hagendorff's critique of Soft Law.
