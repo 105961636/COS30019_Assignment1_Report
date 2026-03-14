@@ -9,7 +9,7 @@ Reviewed core materials: Hagendorff (2020), Australia's AI Ethics Principles, an
 Analyzed the underlying mathematical and engineering reasons why principles like "Fairness" and "Accountability" face an implementation gap in Machine Learning (e.g., mutually exclusive fairness metrics, Black Box nature of ANNs)
 Finalized the research direction by selecting Topic 6, ensuring a comprehensive synthesis of all three provided baseline materials
 
-
+Week2：
 * Literature Review: Thoroughly read and analyzed the base sources: Australia's AI Ethics Principles (S1) and Hagendorff's evaluation of AI guidelines (S2).
 * Topic Formulation: Finalized the research focus on the tension between ethics and business, specifically addressing how commercial imperatives cause soft law mechanisms to fail in practice.
 * Key Issues Identified: Defined "ethics washing" and the lack of enforcement in self-regulatory frameworks as the core problems to investigate.
